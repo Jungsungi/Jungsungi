@@ -9,6 +9,7 @@
 3. Spring boot
 4. Oracle DBMS
 5. JavaScript
+6. JQuery
 
 ## Since
 
