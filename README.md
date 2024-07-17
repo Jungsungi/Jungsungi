@@ -10,6 +10,8 @@
 4. Oracle DBMS
 5. JavaScript
 6. JQuery
+7. JPA (Hibernate)
+8. QueryDsl
 
 ## Since
 
@@ -17,8 +19,8 @@
 
 ## Blog
 
-[블로그로 가기](https://blog.naver.com/sungi1205)
-
+[블로그로 가기_naver](https://blog.naver.com/sungi1205)
+[블로그로 가기_velog](https://velog.io/@sungi1205/posts)
 
 
 <!--
